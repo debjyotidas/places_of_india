@@ -1,0 +1,87 @@
+
+
+.detailed-view-bg-container {
+    background-image: url("https://image.freepik.com/free-photo/art-hinddu-religion-cement-figure-red-brick-public-temple-thailand_7180-2695.jpg");
+    height: 100%;
+    background-position: center;
+    
+    width: 100%;
+   
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 40px;
+    font-weight: bold;
+    padding: 24px;
+    text-shadow: 0px 8px 20px black;
+    letter-spacing: 2px;
+}
+
+
+
+.detailed-view-card-heading {
+    color: #020675;
+    font-family: "Arial";
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+.detailed-view-card-description {
+    color: #00358a;
+    font-family: "Arial";
+    font-size: 20px;
+}
+
+.detailed-view-card-text-container {
+    padding:5px;
+    background-color: #ebebfa;
+     border-bottom-left-radius:20px;
+      border-bottom-right-radius:20px;
+}
+.banner-section-bg-container {
+  background-image: url("https://image.freepik.com/free-photo/diwali-festival-lights-tradition_23-2148688473.jpg");
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.banner-heading {
+  color: white;
+  font-family: "Arial";
+  font-size: 45px;
+  font-weight: 600;
+  font-stretch: expanded;
+}
+.banner-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+.custom-button {
+  color: white;
+  background-image: linear-gradient(#ff9d00, #a58d00);
+  width: 140px;
+  height:55px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+  font-weight: 400;
+}
+.custom-outline-button {
+  color:#ff9d00;
+  background-color: transparent;
+  width: 140px;
+  height: 55px;
+  border-style: solid;
+  border-width: 2px;
+  border-color:#ff9d00;
+  border-radius: 8px;
+  font-weight: 400;
+}
+.card{
+    background-color:#757980 ;
+    
+}
